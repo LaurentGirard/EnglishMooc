@@ -1,0 +1,6 @@
+Often neglected, the power supply must be carefully chosen. In fact, the power supply provides energy for the other components of the computer. 
+Picking the right power supply is a matter of balance between the power needed by the other components and the energy consumption produced. 
+If you plan to build a gaming computer you won't need the same power supply than when you build an office computer.
+But the raw energy provided is not the only data to be taken into account. The liability, noise produced and efficiency are other important informations.
+The choice of the power supply must also take into account the size of the computer case. It would be terrible to buy the perfect power supply just to discover during the installation that it doesn't fit into the case!
+If you feel like your case will be messy and full of cables, a modular power supply may be the solution. While a classical power supply has one connector to which every other component is connected, a modular power supply is connected individually to every other component.
