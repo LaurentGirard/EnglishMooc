@@ -1,0 +1,5 @@
+The motherboard is a printed circuit board that is the foundation of a computer, located on the back side or at the bottom of the computer chassis. It allocates power and allows communication to the CPU, RAM, and all other computer hardware components.
+
+Desktop motherboards, cases and power supplies all come in different sizes called form factors. All three must be compatible to work properly together.
+
+Motherboards vary greatly with respect to the types of components they support. For example, each motherboard supports a single type of CPU and a short list of memory types. Additionally, some video cards, hard drives, and other peripherals may not be compatible. The motherboard manufacturer should provide clear guidance on the compatibility of components. So be carefull when you choose your motherboard, choose wisely, don't have any regret!
