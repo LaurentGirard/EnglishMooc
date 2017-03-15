@@ -1,0 +1,6 @@
+The RAM (Random Access Memory) is used by the computer when it needs to perform parallel tasks on running programs. A motherboard usually has from 2 to 6 slots for the memory.
+For that matter, when choosing the RAM, you must take into account a few parameters. 
+The main one is the memory capacity : it may come in different sizes, from 2 to 128 Gigabytes (although you don't usually use more than 16 Gygabytes).
+Another parameter is the frequency. The main information is that the frequency of all the RAM modules scale on the frequency of the slowest one.
+Last but not least, the type of the RAM module : it is important to chose a RAM module that is compatible to your motherboard.
+Some of the most famous RAM brands are Corsair, Crucial, G.Skill and Kingston. 
