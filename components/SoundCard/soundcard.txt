@@ -1,0 +1,3 @@
+If you are a gamer you may not have ever heard about sound cards. There is a sound card integrated in each motherboard, but you can also have an external sound card.
+A sound card (also known as an audio card) is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs. The term sound card is also applied to external audio interfaces used for professional audio applications. Typical uses of sound cards include providing the audio component for multimedia applications such as music composition, editing video or audio, presentation, education and video projection.
+Externals sound cards are generaly used with professional audio applications by musicians, producers or recorders.
