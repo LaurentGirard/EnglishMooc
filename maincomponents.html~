@@ -67,7 +67,7 @@
                         <a href="tutorials.html">Tutorials</a>
                     </li>
                     <li>
-                        <a href="quizz.html">Quizz</a>
+                        <a href="contact.html">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -77,28 +77,6 @@
     </nav>
 
     <div class="container">
-
-        <div class="row">
-            <div class="box">
-                <div class="col-lg-12">
-                    <hr>
-                    <h2 class="intro-text text-center">
-                        <strong>Motherboard</strong>
-                    </h2>
-                    <hr>
-                </div>
-                <div class="col-lg-12">
-                    <hr class="visible-xs">
-                    <img class="img-border img-left" src="img/oc-essentials-motherboard.png" alt="" style="width:304px;height:228px;">
-                    <p>The motherboard is a printed circuit board that is the foundation of a computer, located on the back side or at the bottom of the computer chassis. It allocates power and allows communication to the CPU, RAM, and all other computer hardware components.</p>
-
-                    <p>Desktop motherboards, cases and power supplies all come in different sizes called form factors. All three must be compatible to work properly together.</p>
-
-                    <p>Motherboards vary greatly with respect to the types of components they support. For example, each motherboard supports a single type of CPU and a short list of memory types. Additionally, some video cards, hard drives, and other peripherals may not be compatible. The motherboard manufacturer should provide clear guidance on the compatibility of components. So be carefull when you choose your motherboard, choose wisely, don't have any regret!</p>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
 
         <div class="row">
             <div class="box">
@@ -125,24 +103,22 @@
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">
-                        <strong>Power supply</strong>
+                        <strong>Motherboard</strong>
                     </h2>
                     <hr>
                 </div>
                 <div class="col-lg-12">
-                    <img class="img-responsive img-border img-left" src="img/power supply.png" alt="" style="width:304px;height:228px;">
                     <hr class="visible-xs">
-                    <p>Often neglected, the power supply must be carefully chosen. In fact, the power supply provides energy for the other components of the computer. </p>
-                    <p>Picking the right power supply is a matter of balance between the power needed by the other components and the energy consumption produced. </p>
-                    <p>If you plan to build a gaming computer you won't need the same power supply than when you build an office computer.</p>
-                    <p>But the raw energy provided is not the only data to be taken into account. The liability, noise produced and efficiency are other important informations.
-                    The choice of the power supply must also take into account the size of the computer case. It would be terrible to buy the perfect power supply just to discover during the installation that it doesn't fit into the case!</p>
-                    <p>If you feel like your case will be messy and full of cables, a modular power supply may be the solution. While a classical power supply has one connector to which every other component is connected, a modular power supply is connected individually to every other component.</p>
+                    <img class="img-border img-left" src="img/oc-essentials-motherboard.png" alt="" style="width:304px;height:228px;">
+                    <p>The motherboard is a printed circuit board that is the foundation of a computer, located on the back side or at the bottom of the computer chassis. It allocates power and allows communication to the CPU, RAM, and all other computer hardware components.</p>
+
+                    <p>Desktop motherboards, cases and power supplies all come in different sizes called form factors. All three must be compatible to work properly together.</p>
+
+                    <p>Motherboards vary greatly with respect to the types of components they support. For example, each motherboard supports a single type of CPU and a short list of memory types. Additionally, some video cards, hard drives, and other peripherals may not be compatible. The motherboard manufacturer should provide clear guidance on the compatibility of components. So be carefull when you choose your motherboard, choose wisely, don't have any regret!</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
         </div>
-
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
